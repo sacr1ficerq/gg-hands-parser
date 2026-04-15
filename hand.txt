@@ -1,0 +1,48 @@
+Poker Hand #HD2200824209: Hold'em No Limit ($0.05/$0.10) - 2025/03/03 03:18:06
+Table 'NLHBlue9' 6-max Seat #3 is the button
+Seat 1: livi33 ($10.00 in chips)
+Seat 2: showmakerfa ($7.42 in chips)
+Seat 3: rin-ro ($9.44 in chips)
+Seat 4: kyaaaaa ($8.92 in chips)
+Seat 5: toy_jpn ($12.70 in chips)
+Seat 6: Happy poly ($28.44 in chips)
+kyaaaaa: posts small blind $0.05
+toy_jpn: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to livi33
+Dealt to showmakerfa
+Dealt to rin-ro
+Dealt to kyaaaaa
+Dealt to toy_jpn
+Dealt to Happy poly
+Happy poly: raises $0.10 to $0.20
+livi33: calls $0.20
+showmakerfa: folds
+rin-ro: folds
+kyaaaaa: folds
+toy_jpn: calls $0.10
+*** FLOP *** [4c Tc 3h]
+toy_jpn: checks
+Happy poly: checks
+livi33: checks
+*** TURN *** [4c Tc 3h] [5d]
+toy_jpn: checks
+Happy poly: checks
+livi33: checks
+*** RIVER *** [4c Tc 3h 5d] [4d]
+toy_jpn: checks
+Happy poly: checks
+livi33: bets $0.90
+toy_jpn: folds
+Happy poly: calls $0.90
+*** SHOWDOWN ***
+Happy poly collected $2.33 from pot
+*** SUMMARY ***
+Total pot $2.45 | Rake $0.12 | Jackpot $0.00 | Bingo $0 | Fortune $0 | Tax $0
+Board [4c Tc 3h 5d 4d]
+Seat 1: livi33 showed [Kd 7d] and lost
+Seat 2: showmakerfa folded before Flop (didn't bet)
+Seat 3: rin-ro (button) folded before Flop (didn't bet)
+Seat 4: kyaaaaa (small blind) folded before Flop (didn't bet)
+Seat 5: toy_jpn (big blind) folded on the River
+Seat 6: Happy poly showed [7c 7h] and won ($2.33)
